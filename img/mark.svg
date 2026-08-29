@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="KMR">
+  <rect width="48" height="48" rx="10" fill="#0b1c30"/>
+  <rect x="0" y="40" width="48" height="8" fill="#e2570e"/>
+  <g fill="none" stroke="#9fd4ea" stroke-width="2" stroke-linecap="round">
+    <path d="M24 8v10M19 10.6l10 4.8M19 17.8l10-4.8"/>
+  </g>
+  <path fill="#e2570e" d="M19.5 38c0-5.2 4.5-8.6 4.5-14 3.2 3.4 8.5 6.8 8.5 14a6.5 6.5 0 0 1-13 0z"/>
+</svg>
