@@ -1,2 +1,3 @@
 # kmr-preview
-Preview of a proposed KMR Heating and Cooling website. Not the live site.
+
+This is a **PREVIEW** of a proposed website for KMR Heating and Cooling. It is **not** the live site at [kmrheatingandcooling.com](https://kmrheatingandcooling.com).
